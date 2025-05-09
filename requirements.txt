@@ -1,0 +1,8 @@
+streamlit
+moviepy
+gTTS
+Pillow
+opencv-python-headless
+requests
+pydub
+nltk
